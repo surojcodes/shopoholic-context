@@ -24,7 +24,11 @@ const About = () => {
             </h3>
             surojcodes@gmail.com <br />
             Github :{' '}
-            <a href='https://github.com/surojcodes' target='_blank'>
+            <a
+              href='https://github.com/surojcodes'
+              rel='noopener noreferrer'
+              target='_blank'
+            >
               {' '}
               https://github.com/surojcodes
             </a>

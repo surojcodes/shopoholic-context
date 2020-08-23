@@ -6,7 +6,11 @@ const Footer = () => {
       <hr style={{ width: '50%' }} />
       <p className='text-center'>
         Copyright &copy; 2020{' '}
-        <a href='https://github.com/surojcodes' target='_blank'>
+        <a
+          href='https://github.com/surojcodes'
+          rel='noopener noreferrer'
+          target='_blank'
+        >
           SurojCodes
         </a>{' '}
         <br /> All Rights Reserved
