@@ -4,11 +4,11 @@ const Usage = () => {
   return (
     <div className='' style={{ margin: '2em auto 8em auto' }}>
       <div className='container text-center'>
-        <h1 className='display-5'>How to use Shopper ?</h1>
+        <h1 className='display-5'>How to use Shopoholic ?</h1>
         <hr style={{ width: '20%' }} />
         <p className='mt-4 lead'>
-          Shopper is an application that helps you make a list of items you want
-          to purchase in your next supermarket visit.
+          Shopoholic is an application that helps you make a list of items you
+          want to purchase in your next supermarket visit.
         </p>
         <div
           className='list-group mt-5'
@@ -43,7 +43,17 @@ const Usage = () => {
               </span>{' '}
               With your shopping list ready, go to supermarket, look at the list
               and pick items in the market. After picking up, check the item as
-              picked in the table
+              biught in the table or mark it unbought if you change your mind
+            </p>
+          </div>
+          <div className='list-group-item list-group-item-action flex-column align-items-start'>
+            <p className='mb-1'>
+              <span style={{ fontSize: '1.8em' }}>
+                {' '}
+                <strong>4.</strong>{' '}
+              </span>{' '}
+              You can clear the list for a brand new list of just cleared bought
+              items.
             </p>
           </div>
         </div>

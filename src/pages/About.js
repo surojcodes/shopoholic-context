@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div className='' style={{ margin: '2em auto 8em auto' }}>
       <div className='container text-center'>
-        <h1 className='display-5'>About Shopper App</h1>
+        <h1 className='display-5'>About Shopoholic</h1>
         <hr style={{ width: '20%' }} />
         <div
           className='p-5 border my-4 shadow'
@@ -12,10 +12,10 @@ const About = () => {
         >
           <p className='lead'>
             {' '}
-            Shopper App is written in React using
+            Shopoholic is written in React using
             <span className='text-danger'> hooks</span> and
-            <span className='text-danger'> context API</span> for state
-            management.{' '}
+            <span className='text-danger'> context API</span> with reducer for
+            state management.{' '}
           </p>
           <div>
             <h3 className=' mt-4'>

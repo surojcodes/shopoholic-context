@@ -8,7 +8,7 @@ const Navbar = () => {
         <Link className='navbar-brand' to='/' style={{ fontSize: '1.8em' }}>
           <strong>
             {' '}
-            sh<span className='text-dark'>OP</span>per
+            sh<span className='text-dark'>OP</span>oholic
           </strong>
         </Link>
         <button

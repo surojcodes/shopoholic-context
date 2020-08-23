@@ -1,6 +1,6 @@
-# Shopper App
+# Shopoholic
 
-> A simple shopping list application made using **React context API** and **hooks**
+> Shopoholic is a simple shopping list application made using **React context API** and **hooks**
 
 ## Features
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Building Shopper App
+## Building Shopoholic
 
 - React.js core packages
 - react-router-dom for routing
@@ -26,7 +26,7 @@
 
 ## Demo
 
-Website is live [here]()
+Website is live [here](https://shopoholic.netlify.app/)
 
 - Version **1.0.0**
 - Author **Suroj Maharjan**
