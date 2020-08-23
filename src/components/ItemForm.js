@@ -59,7 +59,7 @@ const AddItem = () => {
       </h2>
 
       <form onSubmit={onSubmit}>
-        <div className='fomr-group'>
+        <div className='form-group'>
           <label htmlFor='itemName'>Item Name</label>
           <input
             type='text'
@@ -69,6 +69,8 @@ const AddItem = () => {
             value={formData.itemName}
             onChange={onChange}
           />
+        </div>
+        <div className='form-group'>
           <label htmlFor='quantity'>Item Quantity</label>
           <input
             type='text'
