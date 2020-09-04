@@ -24,7 +24,9 @@
 
 ---
 
-## Demo
+## Screenshots
+ ![alt tag](https://surojmaharjan0.github.io/projectimages/images/sh1.PNG)
+ ![alt tag](https://surojmaharjan0.github.io/projectimages/images/sh2.PNG)
 
 Website is live [here](https://shopoholic.netlify.app/)
 
